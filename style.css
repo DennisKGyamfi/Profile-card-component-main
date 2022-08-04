@@ -9,8 +9,9 @@ body {
     margin: 0 auto;
     text-align: center;
     background-image: url(./images/bg-pattern-top.svg), url(./images/bg-pattern-bottom.svg);
-    background-position: top left, bottom right;
-    background-repeat: no-repeat, no-repeat;
+    background-position-x: 300px;
+    background-position-y: 400px;
+    background-repeat: default;
     background-color: var(--color-primary);
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 18px;
